@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="com" />
+    <string name="com2">Cost Of Meal</string>
+    <string name="choose">How much do you want to tip?</string>
+    <string name="ok">Okay</string>
+    <string name="none">your tip is...</string>
+</resources>
