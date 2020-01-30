@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                     output.setText("no tip?");
                     //percent = 0.10;
                 }
-                else if (seekBar.getProgress() == 1)
+                /*else if (seekBar.getProgress() == 1)
                 {
                     output.setText("Is it 10 percent?");
                     percent = 0.10;
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                 {
                     output.setText("Is it 20 percent?");
                     percent = 0.20;
-                }
+                }*/
             }
         });
 
