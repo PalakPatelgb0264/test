@@ -52,17 +52,17 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else if (seekBar.getProgress() == 1)
                 {
-                    output.setText("10 percent?");
+                    output.setText("Is it 10 percent?");
                     percent = 0.10;
                 }
                 else if (seekBar.getProgress() == 2)
                 {
-                    output.setText("15 percent?");
+                    output.setText("Is it 15 percent?");
                     percent = 0.15;
                 }
                 else
                 {
-                    output.setText("20 percent?");
+                    output.setText("Is it 20 percent?");
                     percent = 0.20;
                 }
             }
