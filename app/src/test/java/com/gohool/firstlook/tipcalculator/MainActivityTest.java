@@ -8,7 +8,7 @@ public class MainActivityTest {
 
     @Test
     void test1(){
-        assertEquals(2+2,4);
+        assertEquals(2+4,6);
     }
 
 
