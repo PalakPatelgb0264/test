@@ -23,8 +23,6 @@
 * [Technologies](#Technologies)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
