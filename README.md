@@ -93,12 +93,12 @@ To run this application locally follow these steps.
 ### prerequisites
 <strong>Android Studio </strong> 
 * []() Download latest version at this link https://developer.android.com/studio/ 
-<br />
+
 <strong>Firebase Account</strong> 
 * []()Go to https://firebase.google.com/. 
 * []()Enter your email.  
 * []()Create a project using directions given on the site.  
-<br />
+
 <strong>Add Firebase to Android Studio</strong>
 * []()Go to https://firebase.google.com/docs/android/setup and follow steps, use option two. 
 
