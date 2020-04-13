@@ -90,7 +90,7 @@ using a declarative format rather than programmatically.
 
 To run this application locally follow these steps.
 
-### prerequisites
+### Prerequisites
 <strong>Android Studio </strong> 
 * []() Download latest version at this link https://developer.android.com/studio/ 
 
