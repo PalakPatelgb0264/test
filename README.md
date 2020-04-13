@@ -99,6 +99,11 @@ To run this application locally follow these steps.
 * []()Enter your email.  
 * []()Create a project using directions given on the site.  
 
+<strong>Import Database</strong> 
+* []()
+* []()
+* []()
+
 <strong>Add Firebase to Android Studio</strong>
 * []()Go to https://firebase.google.com/docs/android/setup and follow steps, use option two. 
 
