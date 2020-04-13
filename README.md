@@ -67,10 +67,12 @@ non-WSU students from accessing the app.
 * []()Delete Comments  
 
 * []()Home screen to view post from subscribed forums  
+
+* []()Create user profile 
+
+* []()Chat with other users 
+
  
-
-
-
 ## Technologies
 
 * []()<strong> Kotlin:</strong> An open source, statically typed programming language designed JVM and android.  
@@ -97,10 +99,13 @@ To run this application locally follow these steps.
 * []()Enter your email.  
 * []()Create a project using directions given on the site.  
 
-<strong>Import Database</strong> 
-* []()
-* []()
-* []()
+<strong>Import The Unit Database</strong> 
+* []() download the following JSON file : INSERT FILE LINK 
+* []() open your firebase console from https://firebase.google.com/
+* []() select your project 
+* []() select your database 
+* []() select the three dot in the right hand corner of the database window 
+* []() select import JSON and import the file
 
 <strong>Add Firebase to Android Studio</strong>
 * []()Go to https://firebase.google.com/docs/android/setup and follow steps, use option two. 
