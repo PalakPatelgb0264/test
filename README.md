@@ -21,6 +21,7 @@
   * [Scope](#Scope)
   * [Features](#Features)
 * [Technologies](#Technologies)
+* [Getting Started](#Getting Started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 
