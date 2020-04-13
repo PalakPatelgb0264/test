@@ -91,16 +91,16 @@ using a declarative format rather than programmatically.
 To run this application locally follow these steps.
 
 ### prerequisites
-<strong>Android Studio </strong> <br />
-1. Download latest version at this link https://developer.android.com/studio/ 
+<strong>Android Studio </strong> 
+* []() Download latest version at this link https://developer.android.com/studio/ 
 <br />
-<strong>Firebase Account</strong> <br />
-1. Go to https://firebase.google.com/. 
-2. Enter your email.  
-3. Create a project using directions given on the site.  
-<br/>
-<strong>Add Firebase to Android Studio</strong> <br />
-1. Go to https://firebase.google.com/docs/android/setup and follow steps, use option two. 
+<strong>Firebase Account</strong> 
+* []()Go to https://firebase.google.com/. 
+* []()Enter your email.  
+* []()Create a project using directions given on the site.  
+<br />
+<strong>Add Firebase to Android Studio</strong>
+* []()Go to https://firebase.google.com/docs/android/setup and follow steps, use option two. 
 
 
 ### Installation
