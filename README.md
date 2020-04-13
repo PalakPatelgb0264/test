@@ -30,9 +30,7 @@
 The purpose of this project is to develop a collaborative university forum in the form of an android application. 
 Our application will allow WSU students to easily communicate with each other as well as answer each other's questions. 
 Students will be able to search for forums specific to classes they are taking or interested in. 
-These forums can be used to ask questions as well as to sell and buy old class materials. 
-The development team will be responsible for developing this app from its foundation which includes designing an easy to use UI as 
-well as focusing on the back-end components. 
+These forums can be used to ask questions as well as to sell and buy old class materials.  
 
 ## Scope
 The scope of this project is creating the student forum for WSU students. The forum contains a login page for users to
