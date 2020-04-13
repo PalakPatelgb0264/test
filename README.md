@@ -21,7 +21,7 @@
   * [Scope](#Scope)
   * [Features](#Features)
 * [Technologies](#Technologies)
-* [Getting Started](#GettingStarted)
+* [Launch](#Launch)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 
@@ -87,7 +87,7 @@ using a declarative format rather than programmatically.
 
 
 
-### Getting Started
+### Launch
 
 To run this application locally follow these steps.
 
