@@ -86,8 +86,8 @@ using a declarative format rather than programmatically.
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+
+### Getting Started
 
 To run this application locally follow these steps.
 
