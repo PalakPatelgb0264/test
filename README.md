@@ -1,12 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h1 align="center">UNIT</h1>
-
+  <a href="https://github.com/HalaAli2020/SeniorProject">
+    <img src="https://github.com/HalaAli2020/SeniorProject/blob/master/app/src/main/res/drawable/unitlogoproper.png" alt="Logo" width="80" height="80"> </a>
+<h1 align="center"><strong>UNIT</strong></h1>
+  
   <p align="center">
     Unit is a Collaborative forum application to give students an easy way to interact with their peers 
     <br />
@@ -17,28 +15,31 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Introduction](#Introduction)
-  * [Scope](#Scope)
-  * [Features](#Features)
-* [Technologies](#Technologies)
-* [Launch](#Launch)
+* [Introduction](#introduction)
+  * [Scope](#scope)
+  * [Features](#features)
+* [Technologies](#technologies)
+* [Launch](#launch)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 
 
 <!-- ABOUT THE PROJECT -->
 ## Introduction 
-The purpose of this project is to develop a collaborative university forum in the form of an android application. 
-Our application will allow WSU students to easily communicate with each other as well as answer each other's questions. 
+The purpose of this project is to facilitate peer to peer interactions in the form of a forum. Our application
+will allow WSU students to easily communicate with each other as well as answer each other's questions. 
 Students will be able to search for forums specific to classes they are taking or interested in. 
 These forums can be used to ask questions as well as to sell and buy old class materials.  
 
+Development Team: Hala Ali, Adeel Asghar, Palak Patel, and Tyler Gross
+
+GTA: Son Dang
+
+Clients: Thomas Anter and Jahnu Best
+
 ## Scope
 The scope of this project is creating the student forum for WSU students. The forum contains a login page for users to
-access the application, a home page where users can view forums that they have subscribed to, and a search function so users 
-can easily find the forums that they are interested in. After consulting with our clients, our stretch goals for the app 
-include shared flashcards and Wayne State student verification through the wayne.edusearch directory for people in order to prevent 
-non-WSU students from accessing the app. 
+access the application, a home page where users can view forums that they have subscribed to, the ability to chat with other users, and a search function so users can easily find the forums that they are interested in. After consulting with our clients, our stretch goals for the application include shared flashcards and Wayne State student verification through the wayne.edusearch directory in order to prevent non-WSU students from accessing the app. 
 
 ## Features
 * []()User Registration  
@@ -71,24 +72,17 @@ non-WSU students from accessing the app.
 
 * []()Create user profile 
 
-* []()Chat with other users 
+* []()Chatting with other users 
 
  
-## Technologies
-
-* []()<strong> Kotlin:</strong> An open source, statically typed programming language designed JVM and android.  
-* []() <strong>Kotlinx.coroutines library:</strong> A library developed by JetBrains that contains a high level of that contains high level 
-coroutine enable primitives such as launch, used to manage asynchronous tasks.  
+### Technologies
+* []()<strong> Kotlin:</strong> An open source, statically typed programming language designed for JVM and android.  
+* []() <strong>Kotlinx.coroutines library:</strong> A library developed by JetBrains that contains a high level of that contains high level coroutine enable primitives such as launch, used to manage asynchronous tasks.  
 * []()<strong> Dagger 2 :</strong> A Dependency injection framework that generates dependency injection boilerplate code for 
 the developer and completes dependency analysis at compile time instead of runtime.  
-* []()<strong> Data Binding Library :</strong> Support library that allows developers to bind UI components such as layouts to data sources in applications
-using a declarative format rather than programmatically. 
+* []()<strong> Data Binding Library :</strong> A Support library that allows developers to bind UI components such as layouts to data sources in applications using a declarative format rather than programmatically. 
 
-
-
-
-### Launch
-
+## Launch
 To run this application locally follow these steps.
 
 ### Prerequisites
@@ -117,3 +111,4 @@ To run this application locally follow these steps.
 ```sh
 git https://github.com/HalaAli2020/SeniorProject
 ```
+
